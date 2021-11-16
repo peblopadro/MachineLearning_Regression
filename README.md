@@ -1,5 +1,5 @@
 # MachineLearning
-application of several ML algorithms to predict delivery times for food delivery
+application of several ML algorithms to predict delivery times for food delivery.
 
 **Introduction:**
 
